@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HondaisCoin
+Comment=HondaisCoin P2P Cryptocurrency
+Comment[fr]=HondaisCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=HondaisCoin, eşten eşe kriptografik sanal para birimi
+Exec=hondaiscoin-qt %u
+Terminal=false
+Type=Application
+Icon=hondaiscoin128
+MimeType=x-scheme-handler/hondaiscoin;
+Categories=Office;Finance;
