@@ -3,8 +3,9 @@
 ## What is HondaisCoin? 
 HondaisCoin is a cryptocurrency like litecoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, HondaisCoin currently employs a simplified variant of scrypt.
 
-http://hondaiscoin.com/
-
+ Official Page: https://www.hondaiscoin.com/
+ Block Explorer: http://info.hondaiscoin.com
+ 
  - Coin Name: HondaisCoin
  - Currency unit : HNDC
  - Algorithm : Scrypt
