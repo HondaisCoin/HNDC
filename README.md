@@ -11,8 +11,9 @@ HondaisCoin is a cryptocurrency like litecoin, although it does not use SHA256 a
  - Algorithm : Scrypt
  - Block Interval : 1 minute (60 seconds)
  - Difficulty Retarget : Every block (using Kimoto's Gravity Well)
- - Total supply : 50,000,000,000 HNDC
- - Premine: First 20 block is 1,200,000,000 HNDC 
+ - Supply : 50,000,000,000 HNDC
+ - Max Total supply: 100,000,000,000 HNDC
+ - Premine: First 20 block is 1,500,000,000 HNDC 
  - Bonus reward for block 21 to 10,000 of 5000HNDC
  - Bonus reward for block 10,000 - 25,000 of 2000HNDC
  - Bonus reward for block 25,000 - 100,000 of 1000HNDC
