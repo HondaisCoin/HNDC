@@ -37,7 +37,7 @@ HondaisCoin is a cryptocurrency like litecoin, although it does not use SHA256 a
   - port=25547
   - rpcuser=HNDCuser
   - rpcpassword=HNDCpassword
-  - addnode=199.192.23.180
+  - addnode=173.212.220.139
 
 
 **DEBUG_LOCKORDER**
